@@ -1,0 +1,10 @@
+{
+  "urlRandomness": "nd-z3g",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false,
+  "scheme": null,
+  "devClient": false
+}

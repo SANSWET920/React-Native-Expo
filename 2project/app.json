@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "AsyncStorage ",
+    "slug": "AsyncStorage",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo1.png",
+    "splash": {
+      "image": "./assets/logo1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#272543"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+
+      "bundleIdentifier": "com.AsyncStorage"
+
+    },
+
+    "android": {
+
+      "package": "com.AsyncStorage"
+
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

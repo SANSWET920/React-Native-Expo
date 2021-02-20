@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "AsyncStorage",
+    "slug": "AsyncStorage",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8598728716633931~2440896122"
+      },
+      "bundleIdentifier": "com.sanswetsanthanam.AsyncStorage"
+    },
+    "android": {
+      "package": "com.sanswetsanthanam.AsyncStorage",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-8598728716633931~2440896122"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

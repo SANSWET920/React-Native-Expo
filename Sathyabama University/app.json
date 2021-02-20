@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Sathyabama",
+    "slug": "Sathyabama",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/Sathyabama.jpg",
+    "splash": {
+      "image": "./assets/Sathyabama.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+
+      "bundleIdentifier": "com.Sathyabama"
+
+    },
+
+    "android": {
+
+      "package": "com.Sathyabama.reactnative1"
+
+    }
+  }
+}

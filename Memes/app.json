@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Memes Baazaar",
+    "slug": "Sanswet",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo12.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5BADC9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+
+      "bundleIdentifier": "com.MemeBaazaar"
+
+    },
+
+    "android": {
+
+      "package": "com.MemeBaazaar.reactnative"
+
+    }
+  }
+}
